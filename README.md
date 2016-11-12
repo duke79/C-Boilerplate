@@ -11,3 +11,6 @@
 
 ## Prime Factors
 * Factors.cpp
+
+## LCM & HCF
+* LCM.cpp
