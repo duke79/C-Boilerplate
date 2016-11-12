@@ -8,3 +8,6 @@
 ## Sort
 
 * MergeSort.cpp
+
+## Prime Factors
+* Factors.cpp
